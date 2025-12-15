@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { Toaster } from '@/components/ui/toaster';
+import React from 'react';
 import './globals.css';
+import { EncodedFooter } from '@/components/encoded-footer';
 
 export const metadata: Metadata = {
   title: 'Code Muse',
@@ -23,7 +25,10 @@ export default function RootLayout({
         />
       </head>
       <body className="font-body antialiased">
-        {children}
+        <div className="flex flex-col min-h-screen">
+          <main className="flex-grow">{children}</main>
+          <EncodedFooter />
+        </div>
         <Toaster />
       </body>
     </html>
