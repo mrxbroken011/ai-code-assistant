@@ -3,7 +3,7 @@
 import React from 'react';
 
 // This is a simple obfuscation technique. The string "© 2025 BrokenxNetwork" is Base64 encoded.
-export const EncodedFooter = () => {
+export const AppFooter = () => {
   const [decodedText, setDecodedText] = React.useState('');
   React.useEffect(() => {
     // Decode only on the client-side to prevent hydration mismatch
