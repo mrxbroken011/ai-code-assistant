@@ -27,8 +27,8 @@ You can also deploy this application to any Virtual Private Server (VPS) or a se
 1.  **Setup Your Server**: Ensure your server has Node.js (version 18.x or higher) and npm installed.
 2.  **Clone Your Repository**: Clone your code onto the server.
     ```bash
-    git clone <your-repository-url>
-    cd <your-project-directory>
+    git clone https://github.com/mrxbroken011/code-assistant.git
+    cd code-assistant
     ```
 3.  **Install Dependencies**:
     ```bash
