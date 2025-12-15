@@ -1,9 +1,8 @@
-### DEMO 
+<p align="center"><b>DEMO</b></p>
 
 [<img src="https://github.com/mrxbroken011/mrxbroken011/raw/main/resources/Ss.jpg"/>](https://github.com/mrxbroken011)
 
-<h align="middle"> 𝐅𝐎𝐑𝐊 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐄𝐃
-</h>
+<h align="middle"> 𝐅𝐎𝐑𝐊 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐄𝐃</h>
 
 
 ## Deployment
