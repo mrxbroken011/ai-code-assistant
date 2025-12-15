@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/mrxbroken011/mrxbroken011/raw/main/resources/Ss.jpg"/>](https://github.com/mrxbroken011)
 
-<p1 alig=="center"> 𝐅𝐎𝐑𝐊 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐄𝐃</p>
+<p1 align="center"> 𝐅𝐎𝐑𝐊 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐄𝐃</p>
 
 
 ## Deployment
