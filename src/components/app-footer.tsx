@@ -6,7 +6,7 @@ import React from 'react';
 export const AppFooter = () => {
   const [decodedText, setDecodedText] = React.useState('');
   React.useEffect(() => {
-    // Decode only on the client-side to prevent hydration mismatch
+    
     setDecodedText(atob('wqkgMjAyNSBCcm9rZW54TmV0d29yaw=='));
   }, []);
 
