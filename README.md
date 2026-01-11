@@ -1,6 +1,6 @@
 <p align="center"><b>DEMO</b></p>
 
-[<img src="[https://github.com/mrxbroken011/ai-code-assistant/raw/main/docs/broken.png"/>](https://github.com/mrxbroken011)
+[<img src="https://github.com/mrxbroken011/mrxbroken011/raw/main/resources/Ss.jpg"/>](https://github.com/mrxbroken011)
 
 <p1 align="center"> 𝐅𝐎𝐑𝐊 𝐑𝐄𝐂𝐎𝐌𝐌𝐄𝐍𝐃𝐄𝐃</p>
 
